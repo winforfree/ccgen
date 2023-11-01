@@ -9,7 +9,7 @@ body {
 }
 .navigations {
     display: flex;
-    background-color:#1eafed;
+    background-color:red;
     align-items: center;
     justify-content: center;
     height: 100px;
@@ -386,7 +386,7 @@ label {
    display: inline-block;
    max-width: 100%;
    margin-bottom: 5px;
-	color:#1eafed;
+	color:red;
    font-weight: 700
 }
 
@@ -578,27 +578,27 @@ box-shadow: none
  
 .btn-primary {
 color: #fff;
-background-color: #1eafed;
+background-color: red;
 border-color:#000000;
 }
  
 .btn-primary:focus {
 color: #fff;
-background-color: #1eafed;
+background-color: red;
 border-color: #000
 }
  
 .btn-primary:active,
 .btn-primary:hover {
 color: #fff;
-background-color: #1eafed;
+background-color: red;
 border-color: #fff;
 }
  
 .btn-primary:active:focus,
 .btn-primary:active:hover {
 color: #fff;
-background-color: #1eafed;
+background-color: red;
 border-color: #fff;
 }
  
@@ -807,12 +807,12 @@ box-shadow: none
 body {
 background-color: #222;
 font-family: sans-serif
-	color:#1eafed;
+	color:red;
 }
  
 a {
 text-decoration: none;
-color:#1eafed;
+color:red;
 }
  
 textarea {
